@@ -28,3 +28,4 @@ Tout cette partie profil + les règles du jeu seront gérés grâce a WordPress.
 ## Quelles seront/pourraient être les technologies utilisées ?
 WordPress
 VueJS ou React
+
