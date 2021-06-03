@@ -26,6 +26,6 @@ Plus le fameuse page "Règles du jeu" qui devra être lisible, clair et accessib
 Tout cette partie profil + les règles du jeu seront gérés grâce a WordPress.
 
 ## Quelles seront/pourraient être les technologies utilisées ?
-WordPress
+WordPress + 
 VueJS ou React
 
